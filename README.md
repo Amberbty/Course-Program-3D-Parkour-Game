@@ -19,5 +19,5 @@ The player moves left and right and jumps to avoid obstacles. There are 3 kinds 
 - **SFX**: Sound effects include running footsteps, jumping, landing, and bumping sounds.
 - **Particle System**: Dirt effect when the user is running, smoke effect when the user hits an obstacle.
 
-- ## PowerUp
-  A ring is spawned on the ground every 10 seconds starting 2 seconds after the game begins. If the user hits the ring, they can jump higher.
+## PowerUp
+A ring is spawned on the ground every 10 seconds starting 2 seconds after the game begins. If the user hits the ring, they can jump higher.
